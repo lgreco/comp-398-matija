@@ -42,6 +42,7 @@ Before touching code, define:
 
   * Jupyter Notebook (exploration)
   * Python virtual environment or Conda
+  * `pandas`, `matplotlib`, and consider exploring `seaborn`
 * Track dependencies (`requirements.txt`)
 * Version control via Git
 
